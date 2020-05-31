@@ -1,6 +1,6 @@
 # echarts_demo
 
-> A Vue.js project
+> vue2.0===echarts一些常见案例
 
 ## Build Setup
 
